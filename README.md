@@ -1,1 +1,1 @@
-# CNN-Project
+This is a CNN Mini Project
